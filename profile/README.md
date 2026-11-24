@@ -15,7 +15,7 @@ IQLines is a software development agency crafting custom web platforms, mobile a
 
 ### [iqlines.com](./../iqlines.com)
 
-The IQLines agency website, built with Next.js and React. The current experience features an animated neural-lines background and a focused coming-soon landing page.
+Go to our agency website to view our latest projects and know more about the team
 
 ## Get in touch
 
